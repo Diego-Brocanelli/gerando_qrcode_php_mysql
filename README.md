@@ -9,3 +9,6 @@ Repositório referente ao post do blog [http://diegobrocanelli.com.br](http://di
 
 - [PHP QR Code](http://phpqrcode.sourceforge.net/)
 - ext-gd 
+
+# License
+- [GLP - 3.0](https://github.com/Diego-Brocanelli/gerando_qrcode_php_mysql/blob/master/LICENSE)
